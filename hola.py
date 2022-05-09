@@ -1,5 +1,5 @@
 # %%
-print("Holaa")
+print("Holaa a tod@s")
 
 # %%
-print("Adios")
+print("Adios a tod@s")
